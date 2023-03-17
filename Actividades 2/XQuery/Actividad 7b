@@ -1,0 +1,7 @@
+replace value of node
+doc("DB_BailesDeSalon.xml")//Bailes/baile[@id=8]/profesor
+with "Profe Verdadero"
+,
+replace node
+doc("DB_BailesDeSalon.xml")//Bailes/baile[@id=8]/plazas
+with <plazas> 99 </plazas>

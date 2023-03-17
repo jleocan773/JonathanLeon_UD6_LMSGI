@@ -1,0 +1,106 @@
+09:23:02.611  INFO  [lib Actividades] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\Actividades\Actividades
+09:23:02.611  INFO  [lib Actividades] create storage in C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\Actividades\Actividades\contents.qdb
+09:23:02.611  INFO  [lib Actividades] storage created
+09:23:02.751  INFO  [lib Actividades] library creation done
+09:24:19.480  INFO  [lib Actividades] commit start Actividades (session 1)
+09:24:19.511  INFO  [lib Actividades] commit 1 on Actividades (session 1)
+09:24:19.526  INFO  [lib Actividades] commit 1 done
+09:24:19.526  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 ][ 1 2 ]
+09:24:19.526  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 5
+09:25:28.895  INFO  [lib Actividades] commit start Actividades (session 1)
+09:25:28.926  INFO  [lib Actividades] commit 2 on Actividades (session 1)
+09:25:28.926  INFO  [lib Actividades] commit 2 done
+09:25:28.926  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+09:25:28.942  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 11
+09:50:36.854  INFO  [lib Actividades] All sessions closed
+09:50:36.854  INFO  [lib Actividades] Sweeper stopped
+09:50:36.854  INFO  [lib Actividades] library closed 
+09:51:29.865  INFO  [lib Actividades] Library opened by Qizx 4.4p1
+09:51:29.865  INFO  [lib Actividades]  location C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\Actividades\Actividades
+09:51:29.865  INFO  [lib Actividades]  document storage version=5, lastBId=19, BCount=17, maxA=502
+10:10:28.465  INFO  [lib Actividades] commit start Actividades (session 1)
+10:10:28.527  INFO  [lib Actividades] commit 3 on Actividades (session 1)
+10:10:28.543  INFO  [lib Actividades] commit 3 done
+10:10:28.543  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+10:10:28.543  INFO  [lib Actividades] sweeper deleted 1/1 docs: 14 in ms 0.3445
+10:10:28.543  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 15
+10:12:53.306  INFO  [lib Actividades] commit start Actividades (session 1)
+10:12:53.322  INFO  [lib Actividades] commit 4 on Actividades (session 1)
+10:12:53.338  INFO  [lib Actividades] commit 4 done
+10:12:53.338  INFO  [lib Actividades] sweeper deleted 1/1 docs: 20 in ms 0.0488
+10:12:53.338  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+10:12:53.338  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 21
+10:18:53.340  INFO  [lib Actividades] commit start Actividades (session 1)
+10:18:53.340  INFO  [lib Actividades] commit 5 on Actividades (session 1)
+10:18:53.340  INFO  [lib Actividades] commit 5 done
+10:18:53.340  INFO  [lib Actividades] sweeper deleted 1/1 docs: 24 in ms 0.0392
+10:18:53.340  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+10:18:53.355  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 25
+10:19:08.703  INFO  [lib Actividades] commit start Actividades (session 1)
+10:19:08.734  INFO  [lib Actividades] commit 6 on Actividades (session 1)
+10:19:08.734  INFO  [lib Actividades] commit 6 done
+10:19:08.734  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+10:21:45.859  INFO  [lib Actividades] commit start Actividades (session 1)
+10:21:45.875  INFO  [lib Actividades] commit 7 on Actividades (session 1)
+10:21:45.890  INFO  [lib Actividades] commit 7 done
+10:21:45.890  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 ]
+10:21:45.890  INFO  [lib Actividades] sweeper deleted 1/1 docs: 30 in ms 2.7985
+10:21:45.890  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 31
+10:23:40.096  INFO  [lib Actividades] commit start Actividades (session 1)
+10:23:40.112  INFO  [lib Actividades] commit 8 on Actividades (session 1)
+10:23:40.112  INFO  [lib Actividades] commit 8 done
+10:23:40.112  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 ][ 1 2 3 4 5 6 7 8 ]
+10:23:40.112  INFO  [lib Actividades] sweeper deleted 1/1 docs: 34 in ms 0.038
+10:23:40.127  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 35
+10:24:27.611  INFO  [lib Actividades] commit start Actividades (session 1)
+10:24:27.611  INFO  [lib Actividades] commit 9 on Actividades (session 1)
+10:24:27.611  INFO  [lib Actividades] commit 9 done
+10:24:27.611  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 ][ 1 2 3 4 5 6 7 8 ]
+10:24:27.611  INFO  [lib Actividades] sweeper deleted 1/1 docs: 38 in ms 4.3727
+10:24:27.611  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 39
+10:24:34.217  INFO  [lib Actividades] commit start Actividades (session 1)
+10:24:34.233  INFO  [lib Actividades] commit 10 on Actividades (session 1)
+10:24:34.248  INFO  [lib Actividades] commit 10 done
+10:24:34.248  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 ][ 1 2 3 4 5 6 7 8 9 ]
+10:24:54.774  INFO  [lib Actividades] commit start Actividades (session 1)
+10:24:54.790  INFO  [lib Actividades] commit 11 on Actividades (session 1)
+10:24:54.806  INFO  [lib Actividades] commit 11 done
+10:24:54.806  INFO  [lib Actividades] sweeper deleted 1/1 docs: 44 in ms 4.554
+10:24:54.806  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 45
+10:24:54.821  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 ][ 1 2 3 4 5 6 7 8 9 a ]
+10:24:54.837  INFO  [lib Actividades] start auto compaction of 10 M segments to 000B: 0001 0002 0003 0004 0005 0006 0007 0008 0009 000A
+10:24:54.852  INFO  [lib Actividades] compaction done -> state: [ 1 2 3 4 5 6 7 8 9 ][ b ]
+10:24:58.872  INFO  [lib Actividades] sweeper deleted M segments: 0001 to 000A
+10:25:09.685  INFO  [lib Actividades] commit start Actividades (session 1)
+10:25:09.685  INFO  [lib Actividades] commit 13 on Actividades (session 1)
+10:25:09.701  INFO  [lib Actividades] commit 13 done
+10:25:09.701  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a ][ b c ]
+10:25:09.716  INFO  [lib Actividades] sweeper deleted 1/1 docs: 48 in ms 0.0445
+10:25:09.716  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 49
+10:28:12.809  INFO  [lib Actividades] commit start Actividades (session 1)
+10:28:12.825  INFO  [lib Actividades] commit 14 on Actividades (session 1)
+10:28:12.825  INFO  [lib Actividades] commit 14 done
+10:28:12.825  INFO  [lib Actividades] sweeper deleted 1/1 docs: 52 in ms 0.0404
+10:28:12.825  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b ][ b c d ]
+10:28:12.825  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 53
+10:29:45.263  INFO  [lib Actividades] commit start Actividades (session 1)
+10:29:45.279  INFO  [lib Actividades] commit 15 on Actividades (session 1)
+10:29:45.294  INFO  [lib Actividades] commit 15 done
+10:29:45.294  INFO  [lib Actividades] sweeper deleted 1/1 docs: 56 in ms 0.0545
+10:29:45.294  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 57
+10:29:45.294  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c ][ b c d e ]
+10:31:20.528  INFO  [lib Actividades] commit start Actividades (session 1)
+10:31:20.543  INFO  [lib Actividades] commit 16 on Actividades (session 1)
+10:31:20.559  INFO  [lib Actividades] commit 16 done
+10:31:20.559  INFO  [lib Actividades] sweeper deleted 1/1 docs: 60 in ms 0.0488
+10:31:20.559  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 61
+10:31:20.559  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c d ][ b c d e f ]
+10:31:51.672  INFO  [lib Actividades] commit start Actividades (session 1)
+10:31:51.687  INFO  [lib Actividades] commit 17 on Actividades (session 1)
+10:31:51.703  INFO  [lib Actividades] commit 17 done
+10:31:51.703  INFO  [lib Actividades] commit end Actividades (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 a b c d e ][ b c d e f 10 ]
+10:31:51.703  INFO  [lib Actividades] sweeper deleted 1/1 docs: 64 in ms 0.053
+10:31:51.703  INFO  [lib Actividades] sweeper deleted 1/1 metadocs: 65
+10:32:18.537  INFO  [lib Actividades] All sessions closed
+10:32:18.537  INFO  [lib Actividades] Sweeper stopped
+10:32:18.537  INFO  [lib Actividades] library closed 

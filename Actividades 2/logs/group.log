@@ -1,0 +1,11 @@
+09:22:32.654  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\Actividades
+09:22:32.654  INFO  [LibraryManager]  100
+09:50:36.854  INFO  [LibraryManager] shutdown begins
+09:50:36.854  INFO  [LibraryManager]  closed library Actividades
+09:50:36.854  INFO  [LibraryManager] shutdown complete.
+09:51:29.802  INFO  [LibraryManager] ---- starting up ----
+09:51:29.802  INFO  [LibraryManager]  100
+09:51:29.865  INFO  [LibraryManager] Library group ready
+10:32:18.537  INFO  [LibraryManager] shutdown begins
+10:32:18.537  INFO  [LibraryManager]  closed library Actividades
+10:32:18.537  INFO  [LibraryManager] shutdown complete.

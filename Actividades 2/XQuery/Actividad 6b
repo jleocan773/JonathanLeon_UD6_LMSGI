@@ -1,0 +1,11 @@
+insert node
+<baile id="8">
+<nombre>Golf</nombre>
+<precio cuota="mensual" moneda="dolares">32</precio>
+<plazas> 22 </plazas>
+<comienzo>2l/11/2012</comienzo>
+<fin>11/02/2013</fin >
+<profesor> Profe Falso </profesor>
+<sala>4</sala>
+</baile>
+as last into doc("DB_BailesDeSalon.xml")//Bailes 
