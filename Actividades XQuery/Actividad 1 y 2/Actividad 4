@@ -1,0 +1,36 @@
+<html>
+<body>
+<h1> Bailes ofertados </h1>
+<table border= "1">
+<tr>
+<th>Nombre baile</th>
+<th>Precio</th>
+<th>Plazas</th>
+<th>Comienzo</th>
+<th>Fin</th >
+<th>Profesor</th>
+<th>Sala</th>
+</tr >
+{
+for $baile in doc("DB_BailesDeSalon.xml")//Bailes/baile
+let $nombre:=$baile/nombre
+let $precio:=$baile/precio
+let $plazas:=$baile/plazas
+let $comienzo:=$baile/comienzo
+let $fin:=$baile/fin
+let $profesor:=$baile/profesor
+let $sala:=$baile/sala
+return
+<tr>
+<td>{data($nombre)}</td>
+<td>{data($precio)}</td>
+<td>{data($plazas)}</td >
+<td>{data($comienzo)}</td>
+<td>{data($fin)}</td>
+<td>{data($profesor)}</td >
+<td>{data($sala)}</td >
+</tr>
+}
+</table>
+</body>
+</html>

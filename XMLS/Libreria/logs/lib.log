@@ -1,0 +1,37 @@
+13:31:40.556  INFO  [lib Libreria] Qizx 4.4p1 creating new XML Library in C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria
+13:31:40.556  INFO  [lib Libreria] create storage in C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria\contents.qdb
+13:31:40.556  INFO  [lib Libreria] storage created
+13:31:40.572  INFO  [lib Libreria] library creation done
+13:32:05.244  INFO  [lib Libreria] commit start Libreria (session 1)
+13:32:05.259  INFO  [lib Libreria] commit 1 on Libreria (session 1)
+13:32:05.275  INFO  [lib Libreria] commit 1 done
+13:32:05.275  INFO  [lib Libreria] commit end Libreria (session 1) -> state: [ 1 ][ 1 2 ]
+13:32:05.275  INFO  [lib Libreria] sweeper deleted 1/1 metadocs: 5
+13:35:47.418  INFO  [lib Libreria] commit start Libreria (session 1)
+13:35:47.418  INFO  [lib Libreria] commit 2 on Libreria (session 1)
+13:35:47.433  INFO  [lib Libreria] commit 2 done
+13:35:47.433  INFO  [lib Libreria] sweeper deleted 1/1 metadocs: 11
+13:35:47.433  INFO  [lib Libreria] commit end Libreria (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+14:04:22.819  INFO  [lib Libreria] All sessions closed
+14:04:22.819  INFO  [lib Libreria] Sweeper stopped
+14:04:22.819  INFO  [lib Libreria] library closed 
+14:04:47.440  INFO  [lib Libreria] Library opened by Qizx 4.4p1
+14:04:47.440  INFO  [lib Libreria]  location C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria
+14:04:47.440  INFO  [lib Libreria]  document storage version=5, lastBId=19, BCount=17, maxA=502
+14:07:35.819  INFO  [lib Libreria] All sessions closed
+14:07:35.835  INFO  [lib Libreria] library closed 
+14:08:01.324  INFO  [lib Libreria] Library opened by Qizx 4.4p1
+14:08:01.324  INFO  [lib Libreria]  location C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria
+14:08:01.324  INFO  [lib Libreria]  document storage version=5, lastBId=19, BCount=17, maxA=502
+14:09:22.131  INFO  [lib Libreria] All sessions closed
+14:09:22.131  INFO  [lib Libreria] library closed 
+14:09:38.089  INFO  [lib Libreria] Library opened by Qizx 4.4p1
+14:09:38.089  INFO  [lib Libreria]  location C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria
+14:09:38.089  INFO  [lib Libreria]  document storage version=5, lastBId=19, BCount=17, maxA=502
+14:19:18.856  INFO  [lib Libreria] All sessions closed
+14:19:18.872  INFO  [lib Libreria] library closed 
+14:20:23.402  INFO  [lib Libreria] Library opened by Qizx 4.4p1
+14:20:23.402  INFO  [lib Libreria]  location C:\Users\1DAW_2223_01\Desktop\Lenguajes de Marcas\Unidad 6\XMLS\Libreria
+14:20:23.402  INFO  [lib Libreria]  document storage version=5, lastBId=19, BCount=17, maxA=502
+14:21:49.972  INFO  [lib Libreria] All sessions closed
+14:21:49.972  INFO  [lib Libreria] library closed 

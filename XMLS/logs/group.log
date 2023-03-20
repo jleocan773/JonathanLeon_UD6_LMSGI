@@ -8,3 +8,33 @@
 13:30:19.026  INFO  [LibraryManager] Library group ready
 13:30:27.096  INFO  [LibraryManager] shutdown begins
 13:30:27.096  INFO  [LibraryManager] shutdown complete.
+13:31:36.872  INFO  [LibraryManager] ---- starting up ----
+13:31:36.872  INFO  [LibraryManager]  100
+13:31:36.872  INFO  [LibraryManager] Library group ready
+14:04:22.819  INFO  [LibraryManager] shutdown begins
+14:04:22.819  INFO  [LibraryManager]  closed library Libreria
+14:04:22.819  INFO  [LibraryManager] shutdown complete.
+14:04:47.362  INFO  [LibraryManager] ---- starting up ----
+14:04:47.377  INFO  [LibraryManager]  100
+14:04:47.440  INFO  [LibraryManager] Library group ready
+14:07:35.819  INFO  [LibraryManager] shutdown begins
+14:07:35.835  INFO  [LibraryManager]  closed library Libreria
+14:07:35.835  INFO  [LibraryManager] shutdown complete.
+14:08:01.262  INFO  [LibraryManager] ---- starting up ----
+14:08:01.262  INFO  [LibraryManager]  100
+14:08:01.324  INFO  [LibraryManager] Library group ready
+14:09:22.131  INFO  [LibraryManager] shutdown begins
+14:09:22.131  INFO  [LibraryManager]  closed library Libreria
+14:09:22.131  INFO  [LibraryManager] shutdown complete.
+14:09:38.027  INFO  [LibraryManager] ---- starting up ----
+14:09:38.027  INFO  [LibraryManager]  100
+14:09:38.089  INFO  [LibraryManager] Library group ready
+14:19:18.856  INFO  [LibraryManager] shutdown begins
+14:19:18.872  INFO  [LibraryManager]  closed library Libreria
+14:19:18.872  INFO  [LibraryManager] shutdown complete.
+14:20:23.340  INFO  [LibraryManager] ---- starting up ----
+14:20:23.340  INFO  [LibraryManager]  100
+14:20:23.402  INFO  [LibraryManager] Library group ready
+14:21:49.972  INFO  [LibraryManager] shutdown begins
+14:21:49.972  INFO  [LibraryManager]  closed library Libreria
+14:21:49.972  INFO  [LibraryManager] shutdown complete.
