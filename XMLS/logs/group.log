@@ -1,0 +1,10 @@
+13:29:43.324  INFO  [LibraryManager] ---- starting up ----
+13:29:43.324  INFO  [LibraryManager]  100
+13:29:43.324  INFO  [LibraryManager] Library group ready
+13:30:19.026  INFO  [LibraryManager] shutdown begins
+13:30:19.026  INFO  [LibraryManager] shutdown complete.
+13:30:19.026  INFO  [LibraryManager] ---- starting up ----
+13:30:19.026  INFO  [LibraryManager]  100
+13:30:19.026  INFO  [LibraryManager] Library group ready
+13:30:27.096  INFO  [LibraryManager] shutdown begins
+13:30:27.096  INFO  [LibraryManager] shutdown complete.
